@@ -9,7 +9,7 @@ function fibonacci(num) {
 		sec=sum;
 	}
 
-	return first
+	return sum
 }
 
 module.exports = fibonacci;
